@@ -317,4 +317,4 @@ rectifybuyin:
         cout << "Your loss is $" << (buyin - purse) << ".\n";
     return 0;
 }
-//prath
+//Counters
